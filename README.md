@@ -1,5 +1,3 @@
-## Profile README
-
 
 # Wassuh, I'm L.G.A 👋
 
