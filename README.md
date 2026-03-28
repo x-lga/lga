@@ -42,5 +42,5 @@
 ## 📬 Contact
 
 **Email:** lga.it@proton.me  
-**Portfolio:** [yourusername.github.io](https://yourusername.github.io)  
+**Portfolio:** [x-lga.github.io](https://x-lga.github.io)  
 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
