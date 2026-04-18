@@ -1,6 +1,6 @@
 # Hi, I'm x-LGA 👋
 
-> **IT Support, Cloud & Security** · CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
+> **IT & Cloud Support Engineer** · CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
 
 I build things, break them, diagnose exactly why they broke, and document the whole process.
 This GitHub is the proof — seven production-quality repositories built from a fully operational
