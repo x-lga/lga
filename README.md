@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm x-LGA 👋
 
 > **IT & Cloud Support Engineer** · CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
 
@@ -187,12 +187,12 @@ Azure       : Free trial + M365 Dev E5 Sandbox
 
 | Cert | Status |
 |------|--------|
-| CompTIA A+ | ✅ Trained — Cengage curriculum (665+ hrs total across all certs) |
+| CompTIA A+ | ✅ Trained|
 | CompTIA Network+ | ✅ Trained |
 | CompTIA Security+ | ✅ Trained |
-| ITIL 4 Foundation | ✅ Trained — AXELOS + Sybex |
-| Microsoft AZ-900 | ✅ Trained — Microsoft Press |
-| Microsoft AZ-104 | ✅ Trained — Microsoft Press |
+| ITIL 4 Foundation | ✅ Trained |
+| Microsoft AZ-900 | ✅ Trained |
+| Microsoft AZ-104 | ✅ Trained |
 
 ---
 
