@@ -53,5 +53,3 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-<sub>All scripts and playbooks were built and tested in a working lab environment. Nothing here is copied from documentation or generated without hands-on validation. The troubleshooting logs in each repository are the evidence of that.</sub>
