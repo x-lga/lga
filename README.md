@@ -1,6 +1,7 @@
 # x-lga
 
-> **IT Infrastructure · Cloud · Cybersecurity ·**  CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
+> **IT Infrastructure · Cloud · Cybersecurity ·**  
+  CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
 
 I build things, break them, diagnose exactly why they broke, and sometimes document the whole process.
 This GitHub is the proof.
@@ -32,20 +33,6 @@ This GitHub is the proof.
 ![ITIL 4](https://img.shields.io/badge/ITIL_4-Foundation-6A1FAB?style=flat-square)
 ![KQL](https://img.shields.io/badge/KQL-Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
----
-
-## 🔬 Lab Environment
-
-```
-Hypervisor  : Proxmox VE 8.x
-Domain      : contoso.local (Windows Server 2022)
-Firewall    : pfSense 2.7 — VLAN 10/20/99, WireGuard VPN
-SIEM        : Splunk Free (Ubuntu 22.04, VLAN 99)
-Scanner     : Nessus Essentials (Ubuntu 22.04, VLAN 10)
-Kali Linux  : VLAN 20 (isolated) — pen testing, attack simulation
-Azure       : Free trial + M365 Dev E5 Sandbox
-              VNet 10.20.0.0/16, Bastion, Log Analytics, Intune
-```
 
 ---
 
