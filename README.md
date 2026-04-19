@@ -1,13 +1,9 @@
-# x-LGA
+# x-lga
 
-> **IT Infrastructure · Cloud · Cybersecurity ·** · CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
+> **IT Infrastructure · Cloud · Cybersecurity ·**  CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
 
-I build things, break them, diagnose exactly why they broke, and document the whole process.
-This GitHub is the proof — seven production-quality repositories built from a fully operational
-Proxmox home lab running Windows Server 2022 Active Directory, pfSense VLAN segmentation,
-Azure hybrid identity, Splunk SIEM, Nessus vulnerability scanning, and Microsoft Intune.
-Not tutorials followed. Not screenshots of someone else's work. Built from scratch.
-
+I build things, break them, diagnose exactly why they broke, and sometimes document the whole process.
+This GitHub is the proof.
 ---
 
 ## 🧰 What I Work With
