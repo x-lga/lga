@@ -1,9 +1,8 @@
 # x-lga
 
-> **IT Infrastructure · Cloud · Cybersecurity ·**   CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
+>  CompTIA A+ · Network+ · Security+ · ITIL 4 · AZ-900 · AZ-104
 
-<sub>I build things, break them, diagnose exactly why they broke, and sometimes document the whole process.
-This GitHub is the proof.</sub>
+<sub>I build things, break them, diagnose exactly why they broke, and sometimes document it.</sub>
 ---
 
 ## 🧰 What I Work With
