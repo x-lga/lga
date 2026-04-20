@@ -34,7 +34,7 @@
 
 ---
 
-## 📜 Certifications (in progress / completed)
+## 📜 Certifications
 
 | Cert | Status |
 |------|--------|
